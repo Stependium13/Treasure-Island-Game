@@ -1,0 +1,3 @@
+/home/locked31/CLionProjects/Treasure island game/cmake-build-debug/CMakeFiles/Treasure_island_game.dir
+/home/locked31/CLionProjects/Treasure island game/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/locked31/CLionProjects/Treasure island game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
